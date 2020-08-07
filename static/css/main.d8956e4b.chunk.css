@@ -7,7 +7,9 @@ body {
     background-image: linear-gradient(84deg, rgba(252, 138, 24, .6), rgba(255, 72, 0, .6), rgba(192, 33, 38, .6), rgba(223, 41, 255, .6)), url(../media/pexels-david-bartus-435840.66e2777c.jpg);
     background-size: cover;
     background-position: 50%;
-    background-repeat: no-repeat
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
 }
 
 label {
